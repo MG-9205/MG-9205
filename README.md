@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20444
-Fork on GitHub
-6272
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Manish Gupta</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
